@@ -5,11 +5,11 @@
     "name": "电子拍立得",
     "description": "复古拍立得风格，24 张壁纸可自由切换，底部快捷跳转支持改成自己常用的项。",
     "preview": [
-      "media/cover.png",
+      "media/cover.jpg",
       "media/preview.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/cover.png",
+    "cover": "media/cover.jpg",
     "author": [
       {
         "name": "Hobjl",
